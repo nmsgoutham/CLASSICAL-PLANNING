@@ -1,8 +1,8 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
 # Algorithm or Steps Involved:
 
-### Name : JAYANTH S S
-### Reg. No : 212224050014
+### Name : G NAGA GOWTHAM
+### Reg. No : 212224060086
 
 <ol>
   <li>Define the initial state</li>
